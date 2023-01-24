@@ -10,4 +10,4 @@
 
 # General Explanation
 
-This is a example project for Mobile Programming Class. I have changed some parts by myself. Normally, user can send a text via one TextInput but I have changed it to user can send a topic and text together via two Textınput and one SEND button. This topic has different style to be noticed. Another changed part by myself is chat room names have different style. Normally, these have black color but I have changed to turquoise.
+This is a example project for Mobile Programming Class. I have changed some parts by myself. Normally, user can send a text via one TextInput but I have changed it to user can send a topic and text together via two TextInput and one SEND button. This topic has different style to be noticed. Another changed part by myself is chat room names have different style. Normally, these have black color but I have changed to turquoise.
